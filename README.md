@@ -7,3 +7,5 @@ git clone https://github.com/<your-username>/<your-repo-name> ~/.config/nvim
 
 mkdir -p ~/.config
 mv ~/Work/nvim-config ~/.config/nvim
+
+brew install lazygit
