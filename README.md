@@ -9,3 +9,5 @@ mkdir -p ~/.config
 mv ~/Work/nvim-config ~/.config/nvim
 
 brew install lazygit
+
+install node, gopls, golint etc
